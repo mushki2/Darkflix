@@ -1,0 +1,5 @@
+{
+  "name": "DarkFlix",
+  "description": "A high-performance, Netflix-inspired streaming application with support for movies, TV series, and vertical shorts, featuring a mobile-first design and an integrated admin panel.",
+  "requestFramePermissions": []
+}
